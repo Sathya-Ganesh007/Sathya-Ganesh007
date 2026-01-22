@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I'm currently working on **MERN Stack Development**  
+- 🔭 I'm currently working on **Full Stack Developer - AI Assisted **  
 - 🌱 I'm currently learning **App Development and Other Technologies**  
 - 👯 I'm looking to collaborate on **web development projects**  
 
