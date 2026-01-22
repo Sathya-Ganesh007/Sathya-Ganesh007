@@ -1,4 +1,3 @@
-<img width="1010" height="750" alt="image" src="https://github.com/user-attachments/assets/4de5475d-c30f-4448-a309-796bfb751bbd" />
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
