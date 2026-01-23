@@ -1,57 +1,262 @@
-<h1 align="center">Hi 👋, I'm Ganesh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+# Hi 👋, I'm Ganesh 
 
-- 🔭 I'm currently working on **Full Stack Developer - AI Assisted **  
-- 🌱 I'm currently learning **App Development and Other Technologies**  
-- 👯 I'm looking to collaborate on **web development projects**  
+### Full Stack Developer - AI Assisted | Building Scalable Web Solutions
 
----
-
-<h3 align="left">🛠 Technologies & Tools I Work With:</h3>
-
-<h4>Frontend Development</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-</p>
-
-<h4>Backend Development</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
-</p>
-
-<h4>Tools & Platforms</h4>
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-6B46C1?style=for-the-badge&logoColor=white" />
-</p>
+Experienced Full Stack Developer from India specializing in modern web architecture and scalable application development. Currently serving as Software Engineer at **NJ Design Park**, focusing on delivering enterprise-grade solutions with expertise in React.js, Next.js, Node.js, and cloud technologies.
 
 ---
 
-⭐ **Thanks for visiting my profile! Let's build something amazing together!** 🚀
+## 🚀 About Me
+
+- 🔭 Currently working on **scalable review management systems** and **SaaS platforms**
+- 🌱 Exploring **AI/ML integration**, **Docker**, and **Google Cloud Platform**
+- 💼 Professional experience across **full-stack development**, **API integration**, and **DevOps workflows**
+- 👯 Looking to collaborate on **innovative web development projects**
+- 📫 Reach me at: **rrahulchandrakar1@gmail.com**
+- 🎓 **BCA Graduate** (7.5 GPA) | Currently pursuing **MCA**
+
+---
+
+## 💼 Work Experience
+
+### **Software Engineer** | NJ Design Park, Bhilai
+*July 2025 - Present*
+
+Leading full-stack development initiatives with focus on scalability and modern architecture:
+- Driving development of a **custom review management system** using Supabase, Google Cloud, Apify, React.js, and Next.js
+- Replacing costly third-party APIs with optimized in-house solutions
+- Managing deployments via **Google Cloud Console** and utilizing **Docker** and **Coolify** for containerization
+- Integrating **Google APIs** for enhanced functionality and seamless user experiences
+
+### **Software Engineer** | Sunns Technologies
+*May 2024 - July 2025*
+
+Built multiple full-stack applications with modern tech stack:
+- Developed **MindMatch** (personality test app), food delivery platform, and company portfolio sites
+- Utilized React.js, Next.js, Node.js, Express.js, MongoDB, Parse Server, and modern animation libraries
+- Delivered responsive interfaces with robust functionality and cross-platform support
+- Consistently completed projects on time while exploring new technologies
+
+### **Full Stack Web Developer** | NJ Design Park
+*May 2023 - May 2024*
+
+- Built and optimized dynamic websites using HTML, CSS, JavaScript, jQuery, and PHP
+- Designed custom **WordPress solutions** with plugins, theme development, and SEO optimization
+- Collaborated on end-to-end projects implementing responsive designs and modern technologies
+
+---
+
+## 🛠️ Technical Skills
+
+### **Frontend Development**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
+</p>
+
+### **Backend Development**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
+</p>
+
+### **DevOps & Tools**
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
+</p>
+
+---
+
+## 🎯 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔒 PicSafe
+**Image Copyright Detection Platform**
+
+SaaS platform for copyright protection using Next.js and Supabase. Features Google Vision API integration for reverse image search and real-time copyright risk analysis.
+
+**Tech Stack:** Next.js, Supabase, Google Vision API, Tailwind CSS
+
+<p align="center">
+  <a href="https://picsafe.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+
+</td>
+<td width="50%">
+
+### 🔍 Auditly360
+**Web Auditing Platform**
+
+Full-cycle automated website auditing with OpenAI and Gemini integration. Rust web-spider for comprehensive site analysis and intelligent recommendations.
+
+**Tech Stack:** MERN, Next.js, Supabase, OpenAI, Rust
+
+<p align="center">
+  <a href="http://auditly360.com/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⭐ Review Management System
+**Custom Review Solution**
+
+Custom review collection and display solution with Apify Review Scraper. Embeddable widget for seamless website integration and enhanced business credibility.
+
+**Tech Stack:** Next.js, Supabase, Apify, React
+
+<p align="center">
+  <a href="https://reviews.webuildtrades.com/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live_Demo-9C27B0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+
+</td>
+<td width="50%">
+
+### 🤖 AI for Trades
+**AI-Powered Trade Platform**
+
+AI-powered platform for trade professionals with advanced AI integration, modern authentication system, and user management.
+
+**Tech Stack:** Next.js, AI Integration, Authentication
+
+<p align="center">
+  <a href="https://www.aifortrades.co.uk/sign-in" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live_Demo-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏢 Bhagwati Oil
+**Corporate Website**
+
+Professional business portfolio with responsive design, optimized performance, and SEO. Modern corporate presence with smooth animations.
+
+**Tech Stack:** Next.js, Tailwind CSS, Framer Motion
+
+<p align="center">
+  <a href="https://bhagwati-oil.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live_Demo-FF9800?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+
+</td>
+<td width="50%">
+
+### 🏗️ SKA Construction
+**Construction Portfolio**
+
+Modern construction business website with project showcase, service presentation, and responsive design with smooth animations.
+
+**Tech Stack:** Next.js, React, Tailwind CSS, GSAP
+
+<p align="center">
+  <a href="https://ska-teal.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live_Demo-607D8B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💼 My Portfolio
+**Personal Developer Portfolio**
+
+Showcasing projects and professional experience with interactive UI, modern animations, and comprehensive project documentation.
+
+**Tech Stack:** React.js, Framer Motion, Tailwind CSS
+
+<p align="center">
+  <a href="https://portfolio-amc-team01.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Live_Demo-E91E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+
+</td>
+<td width="50%">
+</td>
+</tr>
+
+</table>
+
+---
+
+## 🎓 Education & Certifications
+
+**Master of Computer Application**  
+*Shree Shankaracharya Professional University, Bhilai* | 2025-2027  
+Focus: Advanced Programming, AI/ML Foundations, Software Engineering, Distributed Systems
+
+**Bachelor of Computer Application** | **7.5 GPA**  
+*GD Rungta College of Science & Technology, Bhilai* | 2021-2024
+
+### Certifications
+- ✅ **Full Stack Web Development** - Apna College
+- ✅ **Flutter Development with Firebase** - Completed Course
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rahul-kumar-a71518240/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/RahulChandrakarr" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:rrahulchandrakar1@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+  
+### ⭐ Thanks for visiting my profile!
+### Let's build something amazing together! 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=RahulChandrakarr&color=blueviolet&style=flat-square)
+
+</div>
