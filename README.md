@@ -12,36 +12,15 @@ Experienced Full Stack Developer from India specializing in modern web architect
 - 🌱 Exploring **AI/ML integration**, **Docker**, and **Google Cloud Platform**
 - 💼 Professional experience across **full-stack development**, **API integration**, and **DevOps workflows**
 - 👯 Looking to collaborate on **innovative web development projects**
-- 📫 Reach me at: **rrahulchandrakar1@gmail.com**
-- 🎓 **BCA Graduate** (7.5 GPA) | Currently pursuing **MCA**
-
+- 📫 Reach me at: **ganeshusuals@gmail.com**
+- 🎓 **BE-cse** (7/10 CGPA) |
 ---
 
 ## 💼 Work Experience
 
-### **Software Engineer** | NJ Design Park, Bhilai
-*July 2025 - Present*
-
-Leading full-stack development initiatives with focus on scalability and modern architecture:
-- Driving development of a **custom review management system** using Supabase, Google Cloud, Apify, React.js, and Next.js
-- Replacing costly third-party APIs with optimized in-house solutions
-- Managing deployments via **Google Cloud Console** and utilizing **Docker** and **Coolify** for containerization
-- Integrating **Google APIs** for enhanced functionality and seamless user experiences
-
-### **Software Engineer** | Sunns Technologies
-*May 2024 - July 2025*
-
-Built multiple full-stack applications with modern tech stack:
-- Developed **MindMatch** (personality test app), food delivery platform, and company portfolio sites
-- Utilized React.js, Next.js, Node.js, Express.js, MongoDB, Parse Server, and modern animation libraries
-- Delivered responsive interfaces with robust functionality and cross-platform support
-- Consistently completed projects on time while exploring new technologies
-
 ### **Full Stack Web Developer** | NJ Design Park
-*May 2023 - May 2024*
 
-- Built and optimized dynamic websites using HTML, CSS, JavaScript, jQuery, and PHP
-- Designed custom **WordPress solutions** with plugins, theme development, and SEO optimization
+- Built and optimized dynamic websites using next.js , Tailwind css , typescript , etc 
 - Collaborated on end-to-end projects implementing responsive designs and modern technologies
 
 ---
