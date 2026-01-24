@@ -186,8 +186,6 @@ Showcasing projects and professional experience with interactive UI, modern anim
 **Tech Stack:** React.js, Framer Motion, Tailwind CSS
 
 <p align="center">
-  <a href="https://portfolio-amc-team01.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Live_Demo-E91E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/>
   </a>
 </p>
 
@@ -200,18 +198,8 @@ Showcasing projects and professional experience with interactive UI, modern anim
 
 ---
 
-## 🎓 Education & Certifications
-
-**Master of Computer Application**  
-*Shree Shankaracharya Professional University, Bhilai* | 2025-2027  
-Focus: Advanced Programming, AI/ML Foundations, Software Engineering, Distributed Systems
-
-**Bachelor of Computer Application** | **7.5 GPA**  
-*GD Rungta College of Science & Technology, Bhilai* | 2021-2024
-
 ### Certifications
-- ✅ **Full Stack Web Development** - Apna College
-- ✅ **Flutter Development with Firebase** - Completed Course
+
 
 ---
 
