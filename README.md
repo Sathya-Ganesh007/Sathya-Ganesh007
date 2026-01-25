@@ -78,7 +78,7 @@ Experienced Full Stack Developer from India specializing in modern web architect
 
 SaaS platform for copyright protection using Next.js and Supabase. Features Google Vision API integration for reverse image search and real-time copyright risk analysis.
 
-**Tech Stack:** Next.js, Supabase, Google Vision API, Tailwind CSS
+**Tech Stack:** Next.js, Supabase, Google Vision API, Tailwind 
 
 <p align="center">
   <a href="https://picsafe.app/" target="_blank">
