@@ -224,6 +224,4 @@ Showcasing projects and professional experience with interactive UI, modern anim
 ### ⭐ Thanks for visiting my profile!
 ### Let's build something amazing together! 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=RahulChandrakarr&color=blueviolet&style=flat-square)
-
 </div>
