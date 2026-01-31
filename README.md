@@ -5,11 +5,17 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **scalable review management systems** and **SaaS platforms**
-- 🌱 Exploring **AI/ML integration**, **Docker**, and **Google Cloud Platform**
-- 💼 Professional experience across **full-stack development**, **system-Design**, **API integration**, and **DevOps workflows**
-- 👯 Looking to collaborate on **innovative software development projects**, and **Generative AI on AWS**
-- 📫 Reach me at: **ganeshusuals@gmail.com** |
+🔭 Currently working on scalable SaaS platforms and review management systems with distributed architectures
+
+🧠 Strong focus on system design, microservices, and micro-frontend architecture for high-growth applications
+
+🌱 Actively building with AI/ML integrations, Docker, and cloud platforms (GCP / AWS)
+
+💼 Hands-on experience across full-stack development, API design & integration, event-driven systems, and DevOps workflows
+
+👯 Open to collaborating on large-scale software systems, SaaS products, and Generative AI solutions on AWS
+
+📫 Reach me at: ganeshusuals@gmail.com|
 ---
 
 ## 🛠️ Technical Skills
