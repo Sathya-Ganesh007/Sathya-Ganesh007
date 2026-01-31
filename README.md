@@ -7,8 +7,8 @@
 
 - 🔭 Currently working on **scalable review management systems** and **SaaS platforms**
 - 🌱 Exploring **AI/ML integration**, **Docker**, and **Google Cloud Platform**
-- 💼 Professional experience across **full-stack development**, **API integration**, and **DevOps workflows**
-- 👯 Looking to collaborate on **innovative web development projects**, and **Generative AI on AWS**
+- 💼 Professional experience across **full-stack development**, **system-Design**, **API integration**, and **DevOps workflows**
+- 👯 Looking to collaborate on **innovative software development projects**, and **Generative AI on AWS**
 - 📫 Reach me at: **ganeshusuals@gmail.com** |
 ---
 
