@@ -30,6 +30,9 @@ const ganesh = {
   devOps      : ["Docker", "CI/CD", "Event-Driven Systems"],
   openTo      : "Large-scale collabs, SaaS products, GenAI on AWS",
   contact     : "ganeshusuals@gmail.com",
+  contributions: "293 in the last year 🔥",
+  commitRatio : "93% commits · 5% issues · 2% PRs",
+  activeRepos : "wbt-web-support, to-do-list 0026 16 more",
   funFact     : "My commits are more consistent than my sleep schedule"
 };
 ```
@@ -112,6 +115,20 @@ $ cat ~/.ai_stack
 
 ---
 
+## 📈 Activity Overview
+
+```bash
+$ git log --stat --author="Ganesh" --since="1 year ago" | tail -5
+> 293 contributions in the last year
+> ████████████████████░░  93%  Commits
+> ██░░░░░░░░░░░░░░░░░░░░   5%  Issues
+> █░░░░░░░░░░░░░░░░░░░░░   2%  Pull Requests
+> Contributed to: wbt-web-support, to-do-list & 16 other repos
+```
+
+---
+
+
 ## 🏆 Trophies
 
 <div align="center">
@@ -166,7 +183,7 @@ $ cat ~/.ai_stack
 <br/>
 
 ```
-"First, solve the problem. Then, write the code." — Ganeshh
+"First, solve the problem. Then, write the code." — John Johnson
 ```
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=100&section=footer)
