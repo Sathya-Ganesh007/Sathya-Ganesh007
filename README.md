@@ -1,84 +1,153 @@
-# Hi 👋, I'm Ganesh 
+<div align="center">
 
-### Full Stack Developer - AI Assisted | Building Scalable Web Solutions
---
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ganesh+%F0%9F%91%BE;Full+Stack+Developer;AI-Assisted+Builder;Scalable+Systems+Architect;Turning+ideas+into+infrastructure)](https://git.io/typing-svg)
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=ganesh-sathya2003&style=for-the-badge&color=FF6B00&labelColor=0D0D0D&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-🔭 Currently working on scalable SaaS platforms and review management systems with distributed architectures
-
-🧠 Strong focus on system design, microservices, and micro-frontend architecture for high-growth applications
-
-🌱 Actively building with AI/ML integrations, Docker, and cloud platforms (GCP / AWS)
-
-💼 Hands-on experience across full-stack development, API design & integration, event-driven systems, and DevOps workflows
-
-👯 Open to collaborating on large-scale software systems, SaaS products, and Generative AI solutions on AWS
-
-📫 Reach me at: ganeshusuals@gmail.com|
----
-
-## 🛠️ Technical Skills
-
-### **Frontend Development**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
-</p>
-
-### **Backend Development**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
-</p>
-
-### **DevOps & Tools**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
-</p>
+</div>
 
 ---
 
+```bash
+$ whoami
+> Ganesh — Full Stack Dev | SaaS Architect | AI Builder
+> Currently: shipping scalable systems & breaking prod at 3am 🔥
+> Stack: React · Next.js · Node · PostgreSQL · Docker · GCP/AWS
+> Mode: [ ██████████ ] ALWAYS BUILDING
+```
 
+---
+
+## ⚡ About Me
+
+```javascript
+const ganesh = {
+  role        : "Full Stack Developer — AI Assisted",
+  focus       : ["SaaS Platforms", "Microservices", "Micro-Frontends", "GenAI"],
+  currentBuild: "Scalable review management system w/ distributed arch",
+  cloud       : ["GCP", "AWS"],
+  devOps      : ["Docker", "CI/CD", "Event-Driven Systems"],
+  openTo      : "Large-scale collabs, SaaS products, GenAI on AWS",
+  contact     : "ganeshusuals@gmail.com",
+  funFact     : "My commits are more consistent than my sleep schedule"
+};
+```
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Tech Arsenal
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ganesh-sathya2003/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ganesh@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔩 Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-### ⭐ Thanks for visiting my profile!
-### Let's build something amazing together! 🚀
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ganesh-sathya2003&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&border_color=FF6B00&hide_border=false&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-sathya2003&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF&border_color=FF6B00"/>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ganesh-sathya2003&theme=dark&background=0D0D0D&border=FF6B00&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ganesh-sathya2003&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ganesh-sathya2003/ganesh-sathya2003/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> **Note:** To activate the snake, create `.github/workflows/snake.yml` in your profile repo:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_token: ${{ secrets.GITHUB_TOKEN }}
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+## 🤝 Let's Build Something Dangerous
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-sathya2003/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshusuals@gmail.com)
+
+<br/>
+
+```
+"First, solve the problem. Then, write the code." — John Johnson
+```
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=100&section=footer)
 
 </div>
