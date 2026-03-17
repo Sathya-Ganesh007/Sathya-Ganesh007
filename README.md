@@ -166,7 +166,7 @@ $ cat ~/.ai_stack
 <br/>
 
 ```
-"First, solve the problem. Then, write the code." — John Johnson
+"First, solve the problem. Then, write the code." — Ganeshh
 ```
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=100&section=footer)
