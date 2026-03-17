@@ -3,7 +3,7 @@
 <!-- Animated Typing Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ganesh+%F0%9F%91%BE;Full+Stack+Developer;AI-Assisted+Builder;Scalable+Systems+Architect;Turning+ideas+into+infrastructure)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=ganesh-sathya2003&style=for-the-badge&color=FF6B00&labelColor=0D0D0D&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Sathya-Ganesh007&style=for-the-badge&color=FF6B00&labelColor=0D0D0D&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -67,15 +67,36 @@ const ganesh = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+
+### 🤖 AI Tools & Assistants
+
+```bash
+$ cat ~/.ai_stack
+> Daily drivers powering the build...
+```
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6C47FF?style=for-the-badge&logo=openai&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
+![v0](https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ganesh-sathya2003&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&border_color=FF6B00&hide_border=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sathya-Ganesh007&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&border_color=FF6B00&hide_border=false&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-sathya2003&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF&border_color=FF6B00"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathya-Ganesh007&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF&border_color=FF6B00"/>
 
 </div>
 
@@ -85,7 +106,7 @@ const ganesh = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ganesh-sathya2003&theme=dark&background=0D0D0D&border=FF6B00&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sathya-Ganesh007&theme=dark&background=0D0D0D&border=FF6B00&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
@@ -95,7 +116,7 @@ const ganesh = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ganesh-sathya2003&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sathya-Ganesh007&theme=darkhub&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -105,7 +126,7 @@ const ganesh = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ganesh-sathya2003/ganesh-sathya2003/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Sathya-Ganesh007/Sathya-Ganesh007/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -139,7 +160,7 @@ const ganesh = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-sathya2003/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sathya-Ganesh007/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshusuals@gmail.com)
 
 <br/>
