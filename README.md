@@ -93,15 +93,6 @@ $ cat ~/.ai_stack
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://YOUR-VERCEL-URL.vercel.app/api?username=Sathya-Ganesh007&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&border_color=FF6B00&hide_border=false&count_private=true"/>
-
-<img height="180em" src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=Sathya-Ganesh007&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF&border_color=FF6B00"/>
-
-</div>
 
 ---
 
