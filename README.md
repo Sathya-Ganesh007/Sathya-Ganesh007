@@ -97,9 +97,11 @@ $ cat ~/.ai_stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sathya-Ganesh007&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF&border_color=FF6B00&hide_border=false&count_private=true"/>
+<img src="https://raw.githubusercontent.com/Sathya-Ganesh007/Sathya-Ganesh007/main/metrics.svg" alt="GitHub Metrics"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathya-Ganesh007&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF&border_color=FF6B00"/>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Sathya-Ganesh007/Sathya-Ganesh007/main/metrics-languages.svg" alt="Top Languages"/>
 
 </div>
 
